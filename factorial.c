@@ -1,3 +1,11 @@
+/*
+
+
+*/
+
+
+// Author : Melrick Mascarenhas
+
 #include<stdio.h>
 int fact(int n)
 { 

@@ -1,3 +1,7 @@
+//Reads a sentence and prints frequency of each of the vowels and total count of consonants
+
+// Author : Melrick Mascarenhas
+
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
