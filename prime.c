@@ -14,7 +14,7 @@ int isprime(int x)
 int i;
 for(i=0;i<x;i++)
     {if(x%i==0)
-     return 0;
+       return 0;
      }
 return 1;
 }
